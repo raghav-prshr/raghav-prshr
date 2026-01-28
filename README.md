@@ -95,10 +95,10 @@ Internship project implementing basic recommendation logic.
 
 ## 📫 Contact
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/raghav-parashar-927364325">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:praghav1106@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
