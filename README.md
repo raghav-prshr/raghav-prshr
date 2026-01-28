@@ -98,9 +98,9 @@ Internship project implementing basic recommendation logic.
   <a href="https://www.linkedin.com/in/raghav-parashar-927364325">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:praghav1106@gmail.com">
+  <!-- <a href="mailto:praghav1106@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
+  </a> -->
 </p>
 
 ---
