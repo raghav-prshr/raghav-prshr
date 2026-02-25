@@ -55,36 +55,6 @@ I enjoy working on **backend logic, APIs, Android apps**, and understanding how 
 
 ---
 
-## 🚀 Projects
-
-### 🌦 Weather API Client
-Java application that fetches real-time weather data using a public API.  
-**Concepts:** API handling, JSON parsing, clean code structure  
-**Tech:** Java, REST API
-
----
-
-### 💬 Multithreaded Chat Application
-Client–server chat system supporting multiple users using sockets and threads.  
-**Concepts:** Networking, concurrency  
-**Tech:** Java, Socket Programming
-
----
-
-### 📁 File Handling System
-Application demonstrating reading, writing, and modifying text files.  
-**Concepts:** Java I/O, data persistence  
-**Tech:** Java
-
----
-
-### 🤝 Recommendation System
-Internship project implementing basic recommendation logic.  
-**Concepts:** Problem-solving, library usage  
-**Tech:** Java
-
----
-
 ## 📈 Currently Focusing On
 - Strengthening **Data Structures & Algorithms**
 - Building **Android apps with Kotlin**
